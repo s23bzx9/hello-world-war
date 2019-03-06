@@ -5,7 +5,7 @@
 <body>
 	<h1>Hello World!</h1>
 	<p>
-		It's now
+		It's now XXXX
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
